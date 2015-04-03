@@ -1,0 +1,4 @@
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Dtos\bin\Debug\Quiz.Dtos.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Dtos\bin\Debug\Quiz.Dtos.pdb
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Dtos\obj\Debug\Quiz.Dtos.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Dtos\obj\Debug\Quiz.Dtos.pdb

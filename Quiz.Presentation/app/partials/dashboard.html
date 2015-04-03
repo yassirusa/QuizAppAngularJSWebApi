@@ -1,0 +1,72 @@
+﻿<div class="container-fluid">
+    <br />
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel well no-padding">
+                <div class="panel-heading">
+                    <h1>Welcome to the Quiz application!</h1>
+                </div>
+                <div class="panel-body">
+                    <div>
+                        <div class="col-lg-12" style="padding-bottom: 20px;">
+                            <slick dots=true infinite=false speed=300 slides-to-show=1 hidden="true"
+                                   touch-move=false slides-to-scroll=1
+                                   class="slider one-time slick-center center-block">
+                                <div ng-repeat="question in questions" include-replace my-repeat-directive>
+                                    <div class="question">
+                                        <h2>{{question.id}}. {{question.questionText}}</h2>
+                                        <div class="options">
+                                            <div ng-repeat="choice in question.questionChoices">
+                                                <label for="{{choice.id}}">
+                                                    <input id="{{choice.id}}" type="checkbox" ng-model="choice.chosen" />
+                                                    {{choice.choiceText}}
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--<div>
+                                        <div><h2>{{question.questionText}}</h2></div>
+
+                                        <div ng-repeat="choice in question.questionChoices" include-replace my-repeat-directive>
+                                            <div>
+                                                <div class="radio">
+
+                                                    <label class="radio">
+                                                        <input type="radio" name="optionsRadio" class="pull-left" ng-model="chosen" ng-value="false"><i></i>
+                                                        {{choice.choiceText}}
+                                                    </label>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>-->
+                                </div>
+                            </slick>
+
+                            <div ng-repeat="question in filteredQuestions">
+                                <div class="label label-warning">Question {{currentPage}} of {{totalItems}}.</div>
+                                <div class="question">
+                                    <h2>{{currentPage}}. {{question.Name}}</h2>
+                                    <div class="options">
+                                        <div ng-repeat="option in question.Options">
+                                            <label for="{{option.Id}}">
+                                                <input id="{{option.Id}}" type="checkbox" ng-model="option.Selected" ng-change="onSelect(question, option);" />
+                                                {{option.Name}}
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="panel-footer">
+                    <a class="btn btn-primary pull-right" href ng-click="saveAnswers()">Submit Answers</a>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

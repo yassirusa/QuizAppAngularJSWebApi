@@ -1,0 +1,11 @@
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Quiz.Model.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Quiz.Model.pdb
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Core.DependencyInjection.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Quiz.Interfaces.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Quiz.Interfaces.pdb
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Core.DependencyInjection.pdb
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\obj\Debug\Quiz.Model.csprojResolveAssemblyReference.cache
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\obj\Debug\Quiz.Model.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Quiz.Model\obj\Debug\Quiz.Model.pdb

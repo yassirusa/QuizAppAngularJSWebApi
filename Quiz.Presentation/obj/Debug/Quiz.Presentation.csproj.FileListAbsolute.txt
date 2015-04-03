@@ -1,0 +1,5 @@
+D:\CodeSamples\Quiz.Presentation\bin\Quiz.Presentation.dll.config
+D:\CodeSamples\Quiz.Presentation\bin\Quiz.Presentation.dll
+D:\CodeSamples\Quiz.Presentation\bin\Quiz.Presentation.pdb
+D:\CodeSamples\Quiz.Presentation\obj\Debug\Quiz.Presentation.dll
+D:\CodeSamples\Quiz.Presentation\obj\Debug\Quiz.Presentation.pdb

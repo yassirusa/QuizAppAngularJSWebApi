@@ -1,0 +1,10 @@
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Core.DependencyInjection.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Core.DependencyInjection.pdb
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\obj\Debug\Core.DependencyInjection.dll
+C:\Users\yassir\SkyDrive\CodeSamples\Quiz.Presentation\Core.DependencyInjection\obj\Debug\Core.DependencyInjection.pdb
